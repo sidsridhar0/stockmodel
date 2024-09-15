@@ -1,3 +1,6 @@
+A Kaggle Project to use Hidden Markov Models to predict future stock prices using news headlines
+
+REPORT:
 In the financial sector, accurate stock price prediction is crucial for investors seeking to
 maximize returns while minimizing risk. For this project, we employed Hidden Markov Models
 to predict the future stock price of 10 top tech companies, given both the previous 30 days of
